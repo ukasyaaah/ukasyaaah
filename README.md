@@ -1,4 +1,4 @@
-# Hi There👋:
+# Hi There👋
 I'm Ukhasyah, 19 years old from Semarang, a programming student at Politeknik IDN with a passion for Design, Coding, and a Movie Addict.
 
 
