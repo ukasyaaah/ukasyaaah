@@ -1,5 +1,14 @@
-# 💫 Hi There!:
-I'm Ukhasyah, 19 years old from Semarang, a Software Engineer student at Politeknik IDN with a passion for Design, Coding, and a Movie Addict.
+![Hi 👋, my name is Ukhasyah ](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Hi 👋, my name is Ukhasyah 
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ukasyaaah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ukasyaaah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ukasyaaah@gmail.com) 
