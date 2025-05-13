@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Hi 👋, my name is Ukhasyah" width="600"/>
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Hi 👋, my name is Ukhasyah"/>
 <!-- ![Hi 👋, my name is Ukhasyah ](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif width="600") -->
 
 <div id="toc">
