@@ -18,7 +18,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ukasyaaah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=ukasyaaah&theme=shadow-orange&locale=jv)](https://git.io/streak-stats)
-/// ![](https://github-readme-streak-stats.herokuapp.com/?user=ukasyaaah&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukasyaaah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
