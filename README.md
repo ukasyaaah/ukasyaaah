@@ -5,11 +5,13 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Hi 👋, my name is Ukhasyah 
+        Hi There 👋, I'm Ukhasyah 
       </h1>
     </summary>
   </ul>
 </div>
+
+just a Web & Mobile Apps Developer who loves turning ideas into smooth, clean apps.  <br>I’m all about solving problems with code and making tech that actually works.<br><br>Always curious, always learning, and always ready for the next challenge.  <br>When I’m not coding, you’ll find me digging into new tech or binge-watching random shows.<br><br>Wanna team up, talk tech, or just share memes? Hit me up!  <br>Let’s build something epic together 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ukasyaaah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ukasyaaah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ukasyaaah@gmail.com) 
