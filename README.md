@@ -13,12 +13,12 @@
 
 Just a Web & Mobile Apps Developer who loves turning ideas into smooth, clean apps.  <br>I’m all about solving problems with code and making tech that actually works.<br><br>Always curious, always learning, and always ready for the next challenge.  <br>When I’m not coding, you’ll find me digging into new tech or binge-watching random shows.<br><br>Wanna team up, talk tech, or just share memes? Hit me up!  <br>Let’s build something epic together 🚀
 
-<h3 align="left">
+<h4 align="left">
 Just a Web & Mobile Apps Developer who loves turning ideas into clean, functional apps.  
 Curious by nature, always learning, and always down for a challenge.
 <br><br>
 
-Wanna collab, talk tech, or drop some memes? Hit me up! 🚀</h3>
+Wanna collab, talk tech, or drop some memes? Hit me up! 🚀</h4>
 
 
 
