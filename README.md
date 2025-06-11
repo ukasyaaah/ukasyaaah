@@ -15,9 +15,6 @@
 I’m a **Web & Mobile Apps Developer** who enjoys building stuff that’s not just pretty, but also actually works.  
 I'm all about clean UIs, smooth flows, and code that’s easy to read and maintain.<br>
 
-On a lifelong journey of learning, experimenting, and rolling with whatever comes.  
-Just trying to be a little better than yesterday.<br>
-
 Wanna team up, talk tech, or just share memes? Hit me up!  
 Let’s build something epic together 🚀<br>
 
