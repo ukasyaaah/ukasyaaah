@@ -28,10 +28,11 @@ Wanna team up, talk tech, or just share memes? Hit me up!
 Let’s build something epic together 🚀<br>
 
 ## My Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ukasyaaah&theme=dark&locale=jv&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ukasyaaah&theme=dark&locale=jv&date_format=j%20M%5B%20Y%5D)](https://github.com/ukasyaaah)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukasyaaah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🎥 Letterboxd Recap
+
+## 🍿 Latest from Letterboxd
 [![Letterboxd Stats](https://letterboxd-profile-github.netlify.app/api/svg/ukasyaaah)](https://letterboxd.com/ukasyaaah)
 
 
