@@ -4,14 +4,20 @@
 # Hi There 👋, I'm Ukhasyah Zufar   
   
 
+<a href="mailto:ukasyaaah@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail" />
+</a>
 <a href="https://github.com/ukasyaaah" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
+<img src=https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white alt=github" />
 </a>
 <a href="https://linkedin.com/in/ukasyaaah" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin " />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
 </a>
-<a href="https://linkedin.com/in/ukasyaaah" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=IG " />
+<a href="https://letterboxd.com/ukasyaaah" target="_blank">
+<img src=https://img.shields.io/badge/Letterboxd-202830.svg?style=for-the-badge&logo=Letterboxd&logoColor=white alt=Letterboxd" />
+</a>
+<a href="https://instagram.com/ukasyaaah" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=IG" />
 </a>
 <a href="https://medium.com/ukasyaaah" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium" />
