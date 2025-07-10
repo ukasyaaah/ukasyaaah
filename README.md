@@ -23,9 +23,8 @@ Wanna team up, talk tech, or just share memes? Hit me up!
 Let’s build something epic together 🚀<br>
 
 ## My Github Stats
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ukasyaaah&theme=dark&locale=jv)](https://github.com/ukasyaaah)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukasyaaah&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![Ukhasyah's GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ukasyaaah&theme=dark&locale=jv)](https://github.com/ukasyaaah)
+![Ukhasyah's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukasyaaah&langs_count=10&layout=compact&theme=dark)
 
 ## 🍿 Latest from Letterboxd
 [![Letterboxd Stats](https://letterboxd-profile-github.netlify.app/api/svg/ukasyaaah)](https://letterboxd.com/ukasyaaah)
