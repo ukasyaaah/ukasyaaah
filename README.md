@@ -24,7 +24,7 @@ Let’s build something epic together 🚀<br>
 
 ## My Github Stats
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ukasyaaah&theme=dark&locale=jv)](https://github.com/ukasyaaah)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukasyaaah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukasyaaah&langs_count=10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🍿 Latest from Letterboxd
