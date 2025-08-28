@@ -16,7 +16,7 @@
 ## Glad to see you here!  
 I’m a **Web & Mobile** Apps Developer who loves turning ideas into clean, functional, and user-friendly apps — both on the web and on mobile.
 
-From crafting smooth UIs to building solid APIs, I enjoy working across the stack to make things work beautifully and reliably. Lately, I’ve been diving deeper into mobile development, system architecture, and sharing what I learn along the way.
+From crafting smooth UIs to building solid APIs, I enjoy working across the stack to make things work beautifully and reliably. Lately, I’ve been diving deeper into mobile dev, system architecture, and sharing what I learn along the way.
 
 
 Wanna team up, talk tech, or just share memes? Hit me up!  
