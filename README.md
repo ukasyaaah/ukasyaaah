@@ -11,17 +11,6 @@
 [![Medium](https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/ukasyaaah)
 
 
-  
-
-## Glad to see you here!  
-I’m a **Web & Mobile** Apps Developer who loves turning ideas into clean, functional, and user friendly apps — both on the web and on mobile.
-
-From crafting smooth UIs to building solid APIs, I enjoy working across the stack to make things work beautifully and reliably. Lately, I’ve been diving deeper into mobile dev, system architecture, and sharing what I learn along the way.
-
-
-Wanna team up, talk tech, or just share memes? Hit me up!  
-Let’s build something epic together 🚀<br>
-
 ## My Github Stats
 [![Ukhasyah's GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ukasyaaah&theme=dark&locale=jv)](https://github.com/ukasyaaah)
 ![Ukhasyah's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukasyaaah&langs_count=10&layout=compact&theme=dark&hide=css,html)
