@@ -17,6 +17,4 @@
 
 ## 🍿 Latest Movies from My Letterboxd
 [![Letterboxd Stats](https://letterboxd-profile-github.netlify.app/api/svg/ukasyaaah)](https://letterboxd.com/ukasyaaah)
-
----
- ❤️ Thanks for stopping by, feel free to explore my work 
+ 
