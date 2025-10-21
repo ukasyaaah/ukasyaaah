@@ -15,6 +15,6 @@
 [![Ukhasyah's GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ukasyaaah&theme=dark&locale=jv)](https://github.com/ukasyaaah)
 ![Ukhasyah's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukasyaaah&langs_count=10&layout=compact&theme=dark&hide=css,html)
 
-## Latest Movie from My Letterboxd
+## 🍿 Latest Movie from My Letterboxd
 [![Letterboxd Stats](https://letterboxd-profile-github.netlify.app/api/svg/ukasyaaah)](https://letterboxd.com/ukasyaaah)
  
