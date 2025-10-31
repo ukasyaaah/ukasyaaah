@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Hi 👋, my name is Ukhasyah"/>
 <!-- ![Hi 👋, my name is Ukhasyah ](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif width="600") -->
 
-# Hi there 👋, I'm Ukhasyah Zufar 
+# Hi there! 👋 I'm Ukhasyah Zufar 
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ukasyaaah@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ukasyaaah)
