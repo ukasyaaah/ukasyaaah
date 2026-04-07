@@ -12,7 +12,7 @@
 
 
 ## My Github Stats
-[![Ukhasyah's GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ukasyaaah&theme=dark&locale=jv)](https://github.com/ukasyaaah)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ukasyaaah&theme=dark&locale=jv)](https://github.com/ukasyaaah)
 ![Ukhasyah's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ukasyaaah&langs_count=10&layout=compact&theme=dark&hide=css,html)
 
 ## 🍿 Latest Movie from My Letterboxd
