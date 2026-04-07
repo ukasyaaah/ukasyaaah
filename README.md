@@ -12,7 +12,8 @@
 
 
 ## My Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ukasyaaah&theme=dark&locale=jv)](https://github.com/ukasyaaah)
+
+<a href="https://github.com/ukasyaaah"><img height="190em" src="https://github-readme-streak-stats.herokuapp.com?user=ukasyaaah&theme=dark&locale=jv" alt="GitHub Streak" /></a>
 ![Ukhasyah's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ukasyaaah&langs_count=10&layout=compact&theme=dark&hide=css,html)
 
 ## 🍿 Latest Movie from My Letterboxd
