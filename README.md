@@ -14,7 +14,7 @@
 ## My Github Stats
 
 <a href="https://github.com/ukasyaaah"><img height="190em" src="https://github-readme-streak-stats.herokuapp.com?user=ukasyaaah&theme=dark&locale=jv" alt="GitHub Streak" /></a>
-![Ukhasyah's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ukasyaaah&langs_count=10&layout=compact&theme=dark&hide=css,html)
+![Ukhasyah's Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=ukasyaaah&layout=compact&langs_count=10&theme=dark)
 
 ## 🍿 Latest Movie from My Letterboxd
 [![Letterboxd Stats](https://letterboxd-profile-github.netlify.app/api/svg/ukasyaaah)](https://letterboxd.com/ukasyaaah)
